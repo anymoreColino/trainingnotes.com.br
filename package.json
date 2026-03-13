@@ -1,0 +1,16 @@
+{
+  "name": "trainingnotes.com.br",
+  "version": "1.0.0",
+  "description": "Aplicação web/mobile para registro e acompanhamento de treinos de academia. Permite salvar exercícios, cargas, repetições e séries, ajudando no controle da progressão de treino e organização do histórico de treinos.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
